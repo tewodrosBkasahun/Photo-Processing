@@ -10,7 +10,5 @@ various modifications.
 
 ### Installing
 1) Download 
-2) Import it into you IDE
+2) Import it into your IDE
 3) Run "PictureManager.java"
-
-
